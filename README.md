@@ -5,8 +5,8 @@
 **目录**
 
 - 入门指南
-    - welcome
-    - 安装
+    - [welcome](https://github.com/xyscat/ionic2-doc/blob/master/welcome.md)
+    - [安装](https://github.com/xyscat/ionic2-doc/blob/master/%E5%AE%89%E8%A3%85ionic.md)
     - tutorial
     - ……
 - ……
